@@ -9,7 +9,7 @@ Also, I wanna give an example for testing:
 Here is the googledriver link that includes ground-turth and instance segmentation image, use the tool to transfer the mask into coco format for DCNNs training. 
 https://drive.google.com/drive/folders/1nVt6AQDwCGoqNF7jf3ai2KSbLN2TC9xa?usp=sharing
 
-There are two problems:
+There are two problems when you use the datasets for training instance segmentation CNNs:
 1. please change the weight to width, sorry for misspelling
 2. You may get error in evaluation for instance segementation, like "File "pycocotools/_mask.pyx", in pycocotools._mask.frPyObjects
 cvat          | Exception: input type is not supported.", because there are some seg [] in evaluation json file, please remove them, using replace [], . 

@@ -118,7 +118,7 @@ def get_annotation(mask_image_root):
         dataset["images"].append({"license": 1,
                                   "file_name": file_name,
                                   "id": i,
-                                  "weight": weight,
+                                  "width": weight,
                                   "height": height})
         sub_masks = create_sub_masks(mask_image)
         for color, sub_mask in sub_masks.items():

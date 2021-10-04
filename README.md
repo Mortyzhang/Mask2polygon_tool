@@ -12,3 +12,6 @@ https://drive.google.com/drive/folders/1nVt6AQDwCGoqNF7jf3ai2KSbLN2TC9xa?usp=sha
 There is a problem when you use the datasets for training instance segmentation CNNs:
 You may get error in evaluation for instance segementation, like "File "pycocotools/_mask.pyx", in pycocotools._mask.frPyObjects
 cvat          | Exception: input type is not supported.", because there are some seg [] in evaluation json file, please remove them, using replace [], . 
+
+If OSError: Could not find library geos_c or load any of its variants ['libgeos_c.so.1', 'libgeos_c.so']
+Installed shapely using pip, and had the same problem. So I went ahead and installed it like so: sudo apt-get install libgeos-dev

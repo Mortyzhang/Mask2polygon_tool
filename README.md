@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/68632919/153327988-c7d8c2ec-24fe-487b-b5ff-b6c9b8290eb1.png)
 
-_A comparison of manually annotated datasets and automatically generated synthetic datasets. (The conventional method requires hand-made labeling of images to produce the training set, while our proposed system can automatically create synthetic data with instance annotations by using digital assets of CDT.)_
+_A comparison of manually annotated datasets and automatically generated synthetic datasets. (The conventional method requires hand-made labeling of images to produce the training set, while our proposed system can automatically create synthetic data with instance annotations by using digital assets of City Digital Twin (CDT).)_
 
 # How to use
 **1. Converting the mask image into a COCO annotation for training the instance segmentation model.**<br />

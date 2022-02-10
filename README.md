@@ -28,8 +28,8 @@ We present an instance segmentation dataset of building facade images collected 
 
 **Download**
 
-Real-world dataset
+Real-world dataset：
 https://drive.google.com/drive/folders/1bJPfNTgNEU40lQHA5Rz0kQd18A_iOiPU?usp=sharing
 
-Synthetic dataset
+Synthetic dataset：
 Please contact us

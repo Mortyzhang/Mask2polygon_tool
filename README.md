@@ -1,6 +1,6 @@
 # Background
 
-![image](https://user-images.githubusercontent.com/68632919/148710741-9ff1522c-cede-469e-8931-8751683b2506.png)
+![image](https://user-images.githubusercontent.com/68632919/153327988-c7d8c2ec-24fe-487b-b5ff-b6c9b8290eb1.png)
 
 _A comparison of manually annotated datasets and automatically generated synthetic datasets. (The conventional method requires hand-made labeling of images to produce the training set, while our proposed system can automatically create synthetic data with instance annotations by using digital assets of CDT.)_
 

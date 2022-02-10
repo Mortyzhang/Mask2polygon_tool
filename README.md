@@ -24,7 +24,7 @@ If OSError: Could not find library geos_c or load any of its variants ['libgeos_
 So I went ahead and installed it like so: sudo apt-get install libgeos-dev in Ubuntu os.
 
 # Facade instance segmentation dataset
-We present an instance segmentation dataset of building facade images collected in Tokyo, Osaka, Shanghai, Los Angeles and New York City, which includes 1271 images from street views that have been manually annotated.
+We present an instance segmentation dataset of building facade images collected in Tokyo, Osaka, Los Angeles and New York City, which includes 1271 images from street views that have been manually annotated.
 
 **Download**<br />
 Real-world dataset：

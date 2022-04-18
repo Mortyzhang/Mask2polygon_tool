@@ -1,4 +1,4 @@
-# A format conversion tool: from mask to COCO format for instance semgmentation training
+# A format conversion tool: from mask to COCO format for instance segmentation training
 # Background
 
 ![image](https://user-images.githubusercontent.com/68632919/153327988-c7d8c2ec-24fe-487b-b5ff-b6c9b8290eb1.png)

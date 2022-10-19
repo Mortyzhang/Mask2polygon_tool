@@ -14,7 +14,7 @@ You can use unityperception to create synthetic masks of 3D models, instance seg
 **2. Dataset**<br />
 Also, I wanna give an example for testing:
 
-Here is the googledriver link that includes ground-turth and instance segmentation image, use the tool to transfer the mask into coco format for DCNNs training. https://drive.google.com/drive/folders/1nVt6AQDwCGoqNF7jf3ai2KSbLN2TC9xa?usp=sharing
+Here is the googledriver link that includes ground-turth and instance segmentation image, use the tool to transfer the mask into coco format for DCNNs training. Coming soon...
 
 # Some issues that may arise
 Below are some problems you may meet.
